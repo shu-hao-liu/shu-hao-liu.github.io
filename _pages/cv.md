@@ -6,17 +6,3 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-## Education
-
-## Work experience
-
-## Skills
-
-## Publications
-
-## Talks
-
-## Teaching
-
-## Service and leadership
