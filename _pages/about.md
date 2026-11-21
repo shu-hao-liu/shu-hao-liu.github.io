@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a student researcher fascinated by artificial intelligence and other fields. I am particularly interested in using AI to transform wildly different fields, bringing insights from those fields back to AI, and using generative agent-based modeling to study phenomena.
-
-My interests also include studying microscopic and macroscopic phenomena, and their relationships.
+I am a student researcher interested in AI. Specifically, investigating the reciprocal relationships that occur when pairing AI with different fields. I am fascinated by what AI can bring to other fields, and what these fields can bring to AI. Some areas I am interested include: generative agent-based modeling, political science, anthropology, and bio-inspired AI.
