@@ -10,3 +10,5 @@ redirect_from:
 I'm a student researcher interested in AI. I'm fascinated by what AI can bring to other fields, and what those fields can bring back to AI.
 
 My work spans AI alignment, computational social science, and bio-inspired AI.
+
+You can click on the Email button to email me. Do not hesitate to email me if you have research questions, would like me to collaborate with you, or to give feedback.
